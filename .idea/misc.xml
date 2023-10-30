@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="sdkUUID" value="7f95fd88-0dcf-4575-bc71-0801bf1d6593" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (turtlecrossingame)" project-jdk-type="Python SDK" />
+</project>
